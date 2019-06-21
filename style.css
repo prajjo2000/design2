@@ -1,0 +1,57 @@
+*{
+    margin-top: 8px;
+}
+.doodle{
+    padding: 4px 28px 0px 23px;
+    margin: -2px 0px 0px;
+    height: 33.5px;
+}
+.topbar{
+    display: flex;
+}
+
+.searchbar p{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 310px;
+}
+
+.icon1 ,.icon2{
+    height: 24px;
+    padding-left: 10px;
+}
+.icon2{
+    height: 20px;
+}
+
+.searchbar,.img2,.img3 {
+    border: 1px solid lightgrey;
+    padding: 2px 2px -20px 2px;
+}
+.searchbar{
+    border-right: none;
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+    padding-left: 18px;
+}
+.img2{
+    border-right: none;
+    border-left: none;
+}
+.img3{
+    border-left: none;
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 40px;
+    padding-right: 17px;
+    padding-left: 15px;
+}
+.icon3{
+    height: 25px;
+    padding-left: 660px;
+    opacity: 0.7;
+}
+.icon4{
+    border-radius: 70%;
+    height: 30px;
+    padding-left: 10px;
+
+}
