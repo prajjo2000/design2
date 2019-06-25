@@ -12,7 +12,7 @@
 
 .searchbar p{
     font-family: Arial, Helvetica, sans-serif;
-    padding-right: 310px;
+    padding-right: 350px;
 }
 
 .icon1 ,.icon2{
@@ -46,7 +46,7 @@
 }
 .icon3{
     height: 25px;
-    padding-left: 660px;
+    padding-left: 600px;
     opacity: 0.7;
 }
 .icon4{
@@ -54,4 +54,107 @@
     height: 30px;
     padding-left: 10px;
 
+}
+
+.navlist ul li{
+    list-style: none;
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    cursor: pointer;
+    color: #5f6368;
+    text-align: center;
+    padding: 15px
+}
+
+.navlist ul li:hover {
+    color: #1AA2F1;
+}
+
+.navlist ul li i{
+    font-size: 14px;
+}
+
+.listicon1 , .listicon2,.listicon3,.listicon4,.listicon5,.listicon6{
+    height: 20px;
+}
+
+.speed{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12.5px;
+    padding-left: 155px;
+}
+
+.alllinks{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+.alllinks h3{
+    padding-left: 155px;
+    padding-top: 17px;
+    color: blue;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 0rem;
+}
+.belowlink{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 155px;
+    padding-top: 3px;
+    line-height: 0rem;
+    color: green;
+    font-size: 14px;
+}
+.infolink{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 155px;
+    color: #545454;
+    font-size: small;
+}
+
+.infolink e{
+    font-weight: bold;
+}
+.underline ~ hr{
+    margin-left: 50%;
+}
+
+hr {
+    height: .25rem;
+    width: 5%;
+    margin-left: 140px;
+    color: blue;
+    background: darkblue;
+  }
+  .table{
+      padding-left: 140px;
+      font-family: Arial, Helvetica, sans-serif;
+      padding-top: 20px;
+  }
+.table tr td{
+    border: 1px solid lightgray;
+    font-size: 16px;
+    padding: 9px;
+}
+.table tr td i {
+    padding-left: 270px;
+}
+.feedback{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: gray;
+    padding-left: 710px;
+}
+
+.infolink bl{
+    font-size: small;
+    color: blue;
+}
+
+.google{
+    height: 60px;
+    padding-top: 20px;
+    padding-left: 200px;
 }
